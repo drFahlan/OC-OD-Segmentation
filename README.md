@@ -98,10 +98,12 @@ Applying ellipse Hough transform regularizes the segmentation boundary into a sm
 
 ---
 
-## Notebook
+# Notebooks
 
-The full pipeline is in [`notebooks/od_oc_segmentation.ipynb`](notebooks/od_oc_segmentation.ipynb), covering EDA, all segmentation experiments, and per-image F1 evaluation.
-
+| Notebook | Description |
+|---|---|
+| [od_oc_segmentation.ipynb](od_oc_segmentation.ipynb) | Clean reproducible version — set `BASE_DIR` and run |
+| [Original with outputs](https://drive.google.com/file/d/1iANv89L-kAI6qAQ30JEstjxiFtYe7v7f/view?usp=sharing) | Original notebook with full cell outputs |
 ---
 
 ## Dependencies
